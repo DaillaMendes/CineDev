@@ -35,9 +35,9 @@ O projeto consome dados mockados de um jsonserver hospedado no seguinte link htt
 
 ## Integrantes
 <ol>
+<li>Dáilla Mendes</li>
 <li>Daniel Nascimento</li>
-<li>Dailla Lucia</li>
-<li>Thayna Lopes</li>
+<li>Thayná Lopes</li>
 <li>Gabriel Gomes</li>
 <li>Larissa Abrahão</li>
 </ol>
